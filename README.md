@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Razin Masud</h1>
+<h3 align="center">A Bangladeshi Tech Enthusiast</h3>
 
-<!--
-**Razin-7478/Razin-7478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Razin-7478&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<img align="right" width="380" src="PASTE_IMAGE_URL_HERE" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **PASTE_YOUR_CURRENT_PROJECT**
+- 🌱 I'm currently learning **PASTE_WHAT_YOU_ARE_LEARNING**
+- 🛠️ I build projects in **C, Java, ESP32 / embedded systems and web**
+- 🌐 Portfolio: https://razin-7478.github.io/razin-portfolio/
+- 📫 How to reach me: PASTE_YOUR_LINKEDIN_URL
+
+<h3>Connect with me:</h3>
+<a href="PASTE_YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<h3>Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,arduino,git,github,linux" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razin-7478&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Razin-7478&show_icons=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Razin-7478" />

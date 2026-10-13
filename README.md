@@ -7,14 +7,14 @@
 
 <img align="right" width="380" src="PASTE_IMAGE_URL_HERE" />
 
-- 🔭 I'm currently working on **PASTE_YOUR_CURRENT_PROJECT**
-- 🌱 I'm currently learning **PASTE_WHAT_YOU_ARE_LEARNING**
+
+- 🌱 I'm currently learning **AIML**
 - 🛠️ I build projects in **C, Java, ESP32 / embedded systems and web**
 - 🌐 Portfolio: https://razin-7478.github.io/razin-portfolio/
 - 📫 How to reach me: PASTE_YOUR_LINKEDIN_URL
 
 <h3>Connect with me:</h3>
-<a href="PASTE_YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mohammadrazinmasud7478/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

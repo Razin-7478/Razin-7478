@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Razin-7478&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" width="380" src="PASTE_IMAGE_URL_HERE" />
-
 
 - 🌱 I'm currently learning **AIML**
 - 🛠️ I build projects in **C, Java, ESP32 / embedded systems and web**
@@ -19,7 +17,7 @@
 </a>
 
 <h3>Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,arduino,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,arduino,git,github,linux" />
 
 <br/><br/>
 

@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **AIML**
 - 🛠️ I build projects in **C, Java, ESP32 / embedded systems and web**
 - 🌐 Portfolio: https://razin-7478.github.io/razin-portfolio/
-- 📫 How to reach me: PASTE_YOUR_LINKEDIN_URL
+- 📫 How to reach me: https://www.linkedin.com/in/mohammadrazinmasud7478/
 
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mohammadrazinmasud7478/">
